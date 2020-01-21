@@ -1,5 +1,5 @@
-Esta es la historia de un vato que esta aprendiendo
+﻿Esta es la historia de un vato que esta aprendiendo
 
 el quiere aprender Angular y typescript
 
-mañana se hablará de esto.
+mañana se hablará de esto y de que extraña a su perrito.
