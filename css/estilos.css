@@ -1,9 +1,4 @@
-h1{
-    font-weight: 300;
-    text-align: center;
-    color: aqua;
-}
-
-p{
-    font-size: 10px;
+.contenedor{
+    max-width: 120rem; /* Maxima anchura */
+    margin: 0 auto 0 auto; /* centrar el contenedor  margin: arriba derecha abajo izquierda*/
 }
