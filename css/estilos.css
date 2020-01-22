@@ -15,6 +15,7 @@
     justify-content: space-between;
 }
 .barra{
+    color: white;
     background-color: black;
     display: flex;                     /* Separacion entre el logo y enlaces */
     justify-content: space-between;   /* Separacion entre el logo y enlaces (alinear horizontal)*/
