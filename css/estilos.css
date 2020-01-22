@@ -23,6 +23,12 @@
     padding-top: 30px; /* Separación de arriba de la barra */
     align-items: center; /* se alinean los elementos que conforman a la barra */
 }
-nav{
-    text-decoration: none;
+.navegacion a {
+
+    font-family: 'Ma Shan Zheng', cursive;
+    color: rgba(243, 188, 65, 0.6);
+    text-decoration: none; /* elimina el subrayado por default de los enlaces en html */
+    font-size: 3.5rem; /* Tamaño de la fuente 18px = 1.8rem, solo se recorreo un cero a la izquierda para hacer el calculo*/
+    font-weight: 200;
+    margin-right: 2rem; /* separacion entre los enlaces */
 }
