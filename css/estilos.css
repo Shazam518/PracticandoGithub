@@ -24,5 +24,5 @@
     align-items: center; /* se alinean los elementos que conforman a la barra */
 }
 nav{
-    style: none;
+    text-decoration: none;
 }
