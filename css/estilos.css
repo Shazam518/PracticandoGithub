@@ -15,7 +15,7 @@
     flex-direction: column;
     justify-content: space-between;
 }
-..contenido-header p{
+.contenido-header p{
     font-size: 20px;
 }
 .barra{
