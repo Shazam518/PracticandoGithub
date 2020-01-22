@@ -2,3 +2,22 @@
     max-width: 120rem; /* Maxima anchura */
     margin: 0 auto 0 auto; /* centrar el contenedor  margin: arriba derecha abajo izquierda*/
 }
+.site-header.inicio{
+    background-position: center center; /* centrar la imagen */
+    background-size: cover; /* ajustar la imagen */
+    height: 100vh; /* altura ajustable de acuerdo al tamaño de la pantalla */
+    min-height: 600px; /* altura mínima*/
+}
+.contenido-header{ /* Todo este bloque sirve para acomodar el contenido del contenedor, es decir, la barra y el en encabezado h1: Venta de casas y depart.... */
+    height: 100%; /* para que la altura de la clase site-header y contenido header sean la misma y se pueda aplicar el flex box de abajo */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.barra{
+
+    display: flex;                     /* Separacion entre el logo y enlaces */
+    justify-content: space-between;   /* Separacion entre el logo y enlaces (alinear horizontal)*/
+    padding-top: 30px; /* Separación de arriba de la barra */
+    align-items: center; /* se alinean los elementos que conforman a la barra */
+}
