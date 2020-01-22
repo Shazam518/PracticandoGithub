@@ -2,3 +2,6 @@
     max-width: 120rem; /* Maxima anchura */
     margin: 0 auto 0 auto; /* centrar el contenedor  margin: arriba derecha abajo izquierda*/
 }
+p{
+    font-size: 20px;
+}
