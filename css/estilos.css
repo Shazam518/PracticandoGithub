@@ -22,5 +22,7 @@
     justify-content: space-between;   /* Separacion entre el logo y enlaces (alinear horizontal)*/
     padding-top: 30px; /* Separación de arriba de la barra */
     align-items: center; /* se alinean los elementos que conforman a la barra */
-s
+}
+nav{
+    style: none;
 }
