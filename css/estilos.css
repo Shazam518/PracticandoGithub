@@ -15,9 +15,6 @@
     flex-direction: column;
     justify-content: space-between;
 }
-.contenido-header p{
-    font-size: 20px;
-}
 .barra{
     color: white;
     background-color: black;
