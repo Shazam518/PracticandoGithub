@@ -4,6 +4,7 @@
 }
 
 .site-header.inicio{
+    background-image: url(../img/header.jpg);
     background-position: center center; /* centrar la imagen */
     background-size: cover; /* ajustar la imagen */
     height: 100vh; /* altura ajustable de acuerdo al tamaño de la pantalla */
