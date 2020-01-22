@@ -2,9 +2,7 @@
     max-width: 120rem; /* Maxima anchura */
     margin: 0 auto 0 auto; /* centrar el contenedor  margin: arriba derecha abajo izquierda*/
 }
-<<<<<<< HEAD
 
-=======
 .site-header.inicio{
     background-position: center center; /* centrar la imagen */
     background-size: cover; /* ajustar la imagen */
@@ -27,5 +25,5 @@
     justify-content: space-between;   /* Separacion entre el logo y enlaces (alinear horizontal)*/
     padding-top: 30px; /* Separación de arriba de la barra */
     align-items: center; /* se alinean los elementos que conforman a la barra */
->>>>>>> cabecera
+s
 }
